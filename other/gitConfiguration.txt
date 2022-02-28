@@ -1,0 +1,45 @@
+1)git repository  -done
+2)git  install    - 
+   https://git-scm.com/download/win
+   download git from above url
+   
+   for install click on just next and install n finish
+   
+3)git clone
+   1) copy http url 
+    https://github.com/careerinfotech10/sde12.git
+  2)select your destination folder 
+
+  3)git clone choose your repository url.git
+	
+3.1) how to setup repository in visual code 
+        ->open visual studio code 
+		->open folder and brows your destination folder
+3.2)how to use cmd on vs code 
+      
+4)git configuration
+
+	git config --global user.name "careerinfotech10"
+	git config --global user.email "ssturerao@gmail.com"
+	
+	token generate -   
+	   
+5)git add 
+   -> git add *  
+6)git commit 
+  git commit -m"test"
+  
+7)git push
+  -> git push
+  
+8)publish your web site on git
+   -> open your repository
+   -> got to settings
+   -> find pages on left side menu
+   ->branch main    and root click on save
+	https://careerinfotech10.github.io/sde12/ it will show live pages 
+	
+	https://github.com/careerinfotech10/sde12
+   
+   
+
